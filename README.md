@@ -48,7 +48,7 @@ Construir soluções inovadoras que integrem Engenharia, Inteligência Artificia
 
 ---
 
-## Tecnologias e Ferramentas
+## Ferramentas
 
 **Linguagens**
 - Python
