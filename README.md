@@ -1,16 +1,53 @@
-## Hi there 👋
+# Olá, eu sou Vagner Brandão 👋
 
-<!--
-**vagner-geoinfra/vagner-geoinfra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Sou Engenheiro Agrimensor, Mestrando em Engenharia Civil (Transportes) pela Universidade Federal da Bahia (UFBA) e Análise e Desenvolvimento de Sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha atuação concentra-se na integração entre Engenharia de Transportes, Geotecnologias, Inteligência Artificial e Ciência de Dados para desenvolver soluções voltadas ao planejamento territorial e à mobilidade urbana.
+
+---
+
+## Áreas de Interesse
+
+- 🌎 GeoAI
+- 🗺️ Geoprocessamento
+- 🚍 Engenharia de Transportes
+- 📊 Ciência de Dados Espaciais
+- 🤖 Inteligência Artificial
+- 🐍 Python
+- 🛰️ SIG (QGIS)
+- 🚦 PTV Visum
+- 🌐 Git & GitHub
+
+---
+
+## Projetos
+
+- Desenvolvimento de ferramentas em Python para análise espacial.
+- Modelagem de redes de transporte.
+- Avaliação da acessibilidade urbana.
+- GeoAI aplicada ao transporte público.
+- Integração entre dados geográficos e Inteligência Artificial.
+
+---
+
+## Atualmente
+
+🎓 Mestrando em Engenharia Civil (Transportes) – UFBA
+
+💻 Estudante de Análise e Desenvolvimento de Sistemas
+
+📚 Pesquisando aplicações de GeoAI na avaliação da qualidade do transporte público.
+
+---
+
+## Objetivo
+
+Construir soluções inovadoras que integrem Engenharia, Inteligência Artificial e Geotecnologias para apoiar o planejamento urbano e a tomada de decisão baseada em dados.
+
+---
+
+### Tecnologias
+
+Python • QGIS • Git • GitHub • PostgreSQL • PostGIS • PTV Visum • Pandas • GeoPandas
