@@ -34,8 +34,6 @@ Minha atuação concentra-se na integração entre Engenharia de Transportes, Ge
 
 ## Atualmente
 
-## Atualmente
-
 Sou Mestrando em Engenharia Civil (Transportes) pela Universidade Federal da Bahia (UFBA) e estudante de Análise e Desenvolvimento de Sistemas, direcionando minha formação para a integração entre Engenharia de Transportes, Ciência de Dados, Inteligência Artificial e Geotecnologias.
 
 Desenvolvo pesquisas no Centro de Estudos em Transportes, Ambiente e Território (CETRAM/UFBA), com foco em GeoIA, análise espacial, acessibilidade, conectividade, mobilidade urbana, estatística aplicada e suporte à tomada de decisão baseada em dados.
