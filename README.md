@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou Engenheiro Agrimensor, Mestrando em Engenharia Civil (Transportes) pela Universidade Federal da Bahia (UFBA) e Análista e Desenvolvedor de Sistemas.
+Sou Engenheiro Agrimensor, Análista e Desenvolvedor de Sistemas e Mestrando em Engenharia Civil (Transportes) pela Universidade Federal da Bahia (UFBA).
 
 Minha atuação concentra-se na integração entre Engenharia de Transportes, Geotecnologias, Inteligência Artificial e Ciência de Dados para desenvolver soluções voltadas ao planejamento territorial e à mobilidade urbana.
 
@@ -34,15 +34,13 @@ Minha atuação concentra-se na integração entre Engenharia de Transportes, Ge
 
 ## Atualmente
 
-Mestrando em Engenharia Civil (Transportes) – UFBA
+## Atualmente
 
-Estudante de Análise e Desenvolvimento de Sistemas
+Sou Mestrando em Engenharia Civil (Transportes) pela Universidade Federal da Bahia (UFBA) e estudante de Análise e Desenvolvimento de Sistemas, direcionando minha formação para a integração entre Engenharia de Transportes, Ciência de Dados, Inteligência Artificial e Geotecnologias.
 
-Pesquisando aplicações de GeoAI na avaliação da qualidade do transporte público.
+Desenvolvo pesquisas no Centro de Estudos em Transportes, Ambiente e Território (CETRAM/UFBA), com foco em GeoIA, análise espacial, acessibilidade, conectividade, mobilidade urbana, estatística aplicada e suporte à tomada de decisão baseada em dados.
 
-Possuo experiência nas áreas pública e privada, desenvolvendo soluções voltadas para análise espacial, infraestrutura viária, sistemas de informação, suporte à tomada de decisão e desenvolvimento de aplicações.
-
-No âmbito acadêmico, atuo junto ao CETRAM/UFBA, desenvolvendo pesquisas relacionadas à Ciência de Dados, Inteligência Artificial, GeoIA, Transportes, Estatística Aplicada e Geoprocessamento.
+Ao longo da minha trajetória, adquiri experiência nos setores público e privado, atuando em projetos relacionados à infraestrutura viária, geoprocessamento, sistemas de informação geográfica, análise territorial e desenvolvimento de soluções computacionais voltadas ao planejamento e à gestão do território.
 
 ---
 
