@@ -1,8 +1,8 @@
-# Olá, eu sou Vagner Brandão 👋
+# Olá, eu sou Vagner Brandão
 
 ## Sobre mim
 
-Sou Engenheiro Agrimensor, Mestrando em Engenharia Civil (Transportes) pela Universidade Federal da Bahia (UFBA) e Análise e Desenvolvimento de Sistemas.
+Sou Engenheiro Agrimensor, Mestrando em Engenharia Civil (Transportes) pela Universidade Federal da Bahia (UFBA) e Análista e Desenvolvedor de Sistemas.
 
 Minha atuação concentra-se na integração entre Engenharia de Transportes, Geotecnologias, Inteligência Artificial e Ciência de Dados para desenvolver soluções voltadas ao planejamento territorial e à mobilidade urbana.
 
@@ -10,15 +10,15 @@ Minha atuação concentra-se na integração entre Engenharia de Transportes, Ge
 
 ## Áreas de Interesse
 
-- 🌎 GeoAI
-- 🗺️ Geoprocessamento
-- 🚍 Engenharia de Transportes
-- 📊 Ciência de Dados Espaciais
-- 🤖 Inteligência Artificial
-- 🐍 Python
-- 🛰️ SIG (QGIS)
-- 🚦 PTV Visum
-- 🌐 Git & GitHub
+- GeoAI
+- Geoprocessamento
+- Engenharia de Transportes
+- Ciência de Dados Espaciais
+- Inteligência Artificial
+- Python
+- SIG (QGIS e ArcGis)
+- PTV Visum
+- Git & GitHub
 
 ---
 
@@ -34,11 +34,11 @@ Minha atuação concentra-se na integração entre Engenharia de Transportes, Ge
 
 ## Atualmente
 
-🎓 Mestrando em Engenharia Civil (Transportes) – UFBA
+Mestrando em Engenharia Civil (Transportes) – UFBA
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas
+Estudante de Análise e Desenvolvimento de Sistemas
 
-📚 Pesquisando aplicações de GeoAI na avaliação da qualidade do transporte público.
+Pesquisando aplicações de GeoAI na avaliação da qualidade do transporte público.
 
 ---
 
