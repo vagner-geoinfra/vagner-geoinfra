@@ -48,6 +48,6 @@ Construir soluções inovadoras que integrem Engenharia, Inteligência Artificia
 
 ---
 
-### Tecnologias
+### Tecnologias e Ferramentas
 
 Python • QGIS • Git • GitHub • PostgreSQL • PostGIS • PTV Visum • Pandas • GeoPandas
