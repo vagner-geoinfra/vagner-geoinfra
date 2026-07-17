@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou Engenheiro Agrimensor, Análista e Desenvolvedor de Sistemas e Mestrando em Engenharia Civil (Transportes) pela Universidade Federal da Bahia (UFBA).
+Sou Engenheiro Agrimensor, Analista e Desenvolvedor de Sistemas e Mestrando em Engenharia Civil (Transportes) pela Universidade Federal da Bahia (UFBA).
 
 Minha atuação concentra-se na integração entre Engenharia de Transportes, Geotecnologias, Inteligência Artificial e Ciência de Dados para desenvolver soluções voltadas ao planejamento territorial e à mobilidade urbana.
 
@@ -16,7 +16,7 @@ Minha atuação concentra-se na integração entre Engenharia de Transportes, Ge
 - Ciência de Dados Espaciais
 - Inteligência Artificial
 - Python
-- SIG (QGIS e ArcGis)
+- SIG (QGIS e ArcGIS)
 - PTV Visum
 - Git & GitHub
 
@@ -48,13 +48,14 @@ Construir soluções inovadoras que integrem Engenharia, Inteligência Artificia
 
 ---
 
-## Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 **Linguagens**
 - Python
 
 **Geotecnologias**
 - QGIS
+- ArcGIS
 - GeoPandas
 - PostGIS
 
