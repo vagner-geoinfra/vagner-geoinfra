@@ -40,6 +40,10 @@ Estudante de Análise e Desenvolvimento de Sistemas
 
 Pesquisando aplicações de GeoAI na avaliação da qualidade do transporte público.
 
+Possuo experiência nas áreas pública e privada, desenvolvendo soluções voltadas para análise espacial, infraestrutura viária, sistemas de informação, suporte à tomada de decisão e desenvolvimento de aplicações.
+
+No âmbito acadêmico, atuo junto ao CETRAM/UFBA, desenvolvendo pesquisas relacionadas à Ciência de Dados, Inteligência Artificial, GeoIA, Transportes, Estatística Aplicada e Geoprocessamento.
+
 ---
 
 ## Objetivo
