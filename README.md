@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou Engenheiro Agrimensor, Analista, Desenvolvedor de Sistemas e  Mestrando em Engenharia Civil (Transportes) pela Universidade Federal da Bahia (UFBA) e pesquisador na interface entre Engenharia de Transportes, Inteligência Artificial Geoespacial (GeoAI) e Ciência de Dados Espaciais.
+Sou Engenheiro Agrimensor, Analista Desenvolvedor de Sistemas e  Mestrando em Engenharia Civil (Transportes) pela Universidade Federal da Bahia (UFBA) e pesquisador na interface entre Engenharia de Transportes, Inteligência Artificial Geoespacial (GeoAI) e Ciência de Dados Espaciais.
 
 Minha atuação está voltada ao desenvolvimento de soluções computacionais para análise espacial, modelagem de redes de transporte, acessibilidade, conectividade, planejamento territorial e apoio à tomada de decisão baseada em dados geoespaciais.
 
