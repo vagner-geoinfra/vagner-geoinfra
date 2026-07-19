@@ -1,4 +1,4 @@
-# Olá, eu sou Vagner Brandão  
+# Olá, eu sou Vagner Brandão.
 
 ## Sobre mim
 
