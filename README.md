@@ -52,7 +52,7 @@ Desenvolver tecnologias capazes de integrar Engenharia, Inteligência Artificial
 
 ---
 
-# Tecnologias
+# Ferramentas
 
 ## Linguagens
 
@@ -92,7 +92,7 @@ Desenvolver tecnologias capazes de integrar Engenharia, Inteligência Artificial
 - Análise de Acessibilidade
 - Análise de Conectividade
 
----
+
 
 
 
