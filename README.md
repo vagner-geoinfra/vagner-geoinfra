@@ -9,7 +9,7 @@ Mestrando em Engenharia Civil (Transportes) - UFBA
 
 <p align="center">
 
-Pesquisador em <b>GeoAI</b> | Geoprocessamento | Engenharia de Transportes | Ciência de Dados Espaciais
+Pesquisador em <b>GeoAI</b> | Geoprocessamento | Engenharia de Transportes | Ciência de Dados Espaciais | Energias Renováveis.
 
 </p>
 
@@ -19,7 +19,7 @@ Sobre mim
 
 Sou Engenheiro Agrimensor, Analista e Desenvolvedor de Sistemas e Mestrando em Engenharia Civil pela Universidade Federal da Bahia (UFBA).
 
-Minha atuação está voltada ao desenvolvimento de soluções baseadas em Inteligência Artificial Geoespacial (GeoAI), Sistemas de Informações Geográficas (SIG), Ciência de Dados Espaciais e Engenharia de Transportes.
+Minha atuação está voltada ao desenvolvimento de soluções baseadas em Inteligência Artificial Geoespacial (GeoAI), Sistemas de Informações Geográficas (SIG), Ciência de Dados Espaciais, Engenharia de Transportes e Energia Renováveis.
 
 Tenho interesse em utilizar métodos computacionais para compreender como pessoas, cidades e infraestruturas se conectam por meio dos dados geográficos, contribuindo para um planejamento territorial mais eficiente e orientado por evidências.
 
@@ -27,17 +27,17 @@ Tenho interesse em utilizar métodos computacionais para compreender como pessoa
 
 # Formação
 
-Engenheiro Agrimensor
+- Engenheiro Agrimensor
 
-Analista e Desenvolvedor de Sistemas
+- Analista e Desenvolvedor de Sistemas
 
-Especialista em Engenharia de Transportes
+- Especialista em Engenharia de Transportes
 
-Especialista em Geoprocessamento Aplicado
+- Especialista em Geoprocessamento Aplicado
 
-Especialista em Avaliação de Impactos Ambientais
+- Especialista em Avaliação de Impactos Ambientais
 
-Mestrando em Engenharia Civil (Transportes) – UFBA
+- Mestrando em Engenharia Civil (Transportes) – UFBA
 
 ---
 
@@ -121,31 +121,31 @@ Mestrando em Engenharia Civil (Transportes) – UFBA
 
 # Objetivos
 
-✔ Desenvolver pesquisas em GeoAI
+- Desenvolver pesquisas em GeoAI
 
-✔ Publicar em periódicos internacionais
+- Publicar em periódicos internacionais
 
-✔ Criar soluções Open Source para Geotecnologias
+- Criar soluções Open Source para Geotecnologias
 
-✔ Integrar Inteligência Artificial e Infraestrutura Territorial
+- Integrar Inteligência Artificial e Infraestrutura Territorial
 
-✔ Contribuir para cidades mais inteligentes e sustentáveis
+- Contribuir para cidades mais inteligentes e sustentáveis
 
 ---
 
 # Projetos em desenvolvimento
 
-Avaliação da Qualidade do Transporte Público utilizando GeoAI
+- Avaliação da Qualidade do Transporte Público utilizando GeoAI
 
-Indicadores Espaciais de Acessibilidade
+- Indicadores Espaciais de Acessibilidade
 
-Inteligência Artificial aplicada ao Geoprocessamento
+- Inteligência Artificial aplicada ao Geoprocessamento
 
-Modelagem de Redes de Transporte
+- Modelagem de Redes de Transporte
 
-Infraestrutura de Parques Eólicos
+- Infraestrutura de Parques Eólicos
 
-Automação de análises espaciais em Python
+- Automação de análises espaciais em Python
 
 ---
 
