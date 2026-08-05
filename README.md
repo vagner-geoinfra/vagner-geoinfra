@@ -15,7 +15,7 @@ Pesquisador em <b>GeoAI</b> | Geoprocessamento | Engenharia de Transportes | Ci√
 
 ---
 
-Sobre mim
+Sobre mim:
 
 Sou Engenheiro Agrimensor, Analista e Desenvolvedor de Sistemas e Mestrando em Engenharia Civil pela Universidade Federal da Bahia (UFBA).
 
