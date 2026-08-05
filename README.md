@@ -9,7 +9,7 @@ Mestrando em Engenharia Civil (Transportes) - UFBA
 
 <p align="center">
 
-      Pesquisador em <b>GeoAI</b> | Geoprocessamento | Engenharia de Transportes | Ciência de Dados Espaciais | Energias Renováveis.
+Pesquisador em <b>GeoAI</b> | Geoprocessamento | Engenharia de Transportes | Ciência de Dados Espaciais | Energias Renováveis.
 
 </p>
 
