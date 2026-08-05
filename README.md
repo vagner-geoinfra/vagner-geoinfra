@@ -1,5 +1,5 @@
 <h1 align="center">
-Olá, eu sou Vagner Brandão 👋
+Olá, eu sou Vagner Brandão 
 </h1>
 
 <h3 align="center">
@@ -15,7 +15,7 @@ Pesquisador em <b>GeoAI</b> | Geoprocessamento | Engenharia de Transportes | Ci�
 
 ---
 
-# 👨‍💻 Sobre mim
+Sobre mim
 
 Sou Engenheiro Agrimensor, Analista e Desenvolvedor de Sistemas e Mestrando em Engenharia Civil pela Universidade Federal da Bahia (UFBA).
 
@@ -25,23 +25,23 @@ Tenho interesse em utilizar métodos computacionais para compreender como pessoa
 
 ---
 
-# 🎓 Formação
+# Formação
 
-🎓 Engenheiro Agrimensor
+Engenheiro Agrimensor
 
-💻 Analista e Desenvolvedor de Sistemas
+Analista e Desenvolvedor de Sistemas
 
-🎓 Especialista em Engenharia de Transportes
+Especialista em Engenharia de Transportes
 
-🌎 Especialista em Geoprocessamento Aplicado
+Especialista em Geoprocessamento Aplicado
 
-🌱 Especialista em Avaliação de Impactos Ambientais
+Especialista em Avaliação de Impactos Ambientais
 
-📚 Mestrando em Engenharia Civil (Transportes) – UFBA
+Mestrando em Engenharia Civil (Transportes) – UFBA
 
 ---
 
-# 🔬 Linhas de Pesquisa
+# Linhas de Pesquisa
 
 - GeoAI (Geospatial Artificial Intelligence)
 
@@ -65,7 +65,7 @@ Tenho interesse em utilizar métodos computacionais para compreender como pessoa
 
 ---
 
-# 🚀 Tecnologias
+#  Tecnologias
 
 ### Geotecnologias
 
@@ -99,7 +99,7 @@ Tenho interesse em utilizar métodos computacionais para compreender como pessoa
 
 ---
 
-# 📖 Atualmente estudando
+# Atualmente estudando
 
 - GeoAI
 
@@ -119,7 +119,7 @@ Tenho interesse em utilizar métodos computacionais para compreender como pessoa
 
 ---
 
-# 🎯 Objetivos
+# Objetivos
 
 ✔ Desenvolver pesquisas em GeoAI
 
@@ -133,49 +133,37 @@ Tenho interesse em utilizar métodos computacionais para compreender como pessoa
 
 ---
 
-# 📂 Projetos em desenvolvimento
+# Projetos em desenvolvimento
 
-🚍 Avaliação da Qualidade do Transporte Público utilizando GeoAI
+Avaliação da Qualidade do Transporte Público utilizando GeoAI
 
-🌎 Indicadores Espaciais de Acessibilidade
+Indicadores Espaciais de Acessibilidade
 
-🛰 Inteligência Artificial aplicada ao Geoprocessamento
+Inteligência Artificial aplicada ao Geoprocessamento
 
-🚧 Modelagem de Redes de Transporte
+Modelagem de Redes de Transporte
 
-🌬 Infraestrutura de Parques Eólicos
+Infraestrutura de Parques Eólicos
 
-📍 Automação de análises espaciais em Python
-
----
-
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vagner-geoinfra&show_icons=true&theme=default"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagner-geoinfra&layout=compact"/>
-
-</div>
+Automação de análises espaciais em Python
 
 ---
 
-# 🌐 Contato
+# Contato
 
-📧 **E-mail**
+**E-mail**
 
 vagnerbrandaogeografia@gmail.com
 
-🔗 **LinkedIn**
+**LinkedIn**
 
 https://www.linkedin.com/in/vagner-brandão-94ba0510a
 
-🆔 **ORCID**
+**ORCID**
 
 https://orcid.org/0009-0000-1629-1940
 
-📚 **Currículo Lattes**
+**Currículo Lattes**
 
 http://lattes.cnpq.br/6029852782960846
 
