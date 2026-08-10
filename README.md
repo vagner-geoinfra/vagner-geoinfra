@@ -63,6 +63,8 @@ Tenho interesse em utilizar métodos computacionais para compreender como pessoa
 
 - Análise Espacial
 
+- Energias Renováveis
+
 ---
 
 #  Tecnologias
