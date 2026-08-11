@@ -155,7 +155,7 @@ Tenho interesse em utilizar métodos computacionais para compreender como pessoa
 
 **E-mail**
 
-vagnerbrandaogeografia@gmail.com
+vagnersbrandao13@gmail.com
 
 **LinkedIn**
 
