@@ -27,7 +27,7 @@ Tenho interesse em utilizar métodos computacionais para compreender como pessoa
 
 # Formação
 
-- Engenheiro Agrimensor
+- Engenheiro Agrimensor e Cartógrafo
 
 - Analista e Desenvolvedor de Sistemas
 
