@@ -3,7 +3,7 @@ Olá, eu sou Vagner Brandão
 </h1>
 
 <h3 align="center">
-Engenheiro Agrimensor & Cartógrafo • Analista e Desenvolvedor de Sistemas •
+Engenheiro Agrimensor  • Analista e Desenvolvedor de Sistemas •
 Mestrando em Engenharia Civil (Transportes) - UFBA
 </h3>
 
@@ -17,7 +17,7 @@ Pesquisador em <b>GeoAI</b> | Geoprocessamento | Engenharia de Transportes | Ci�
 
 Sobre mim:
 
-Sou Engenheiro Agrimensor e Cartógrafo, Analista e Desenvolvedor de Sistemas e Mestrando em Engenharia Civil pela Universidade Federal da Bahia (UFBA).
+Sou Engenheiro Agrimensor, Analista e Desenvolvedor de Sistemas e Mestrando em Engenharia Civil pela Universidade Federal da Bahia (UFBA).
 
 Minha atuação está voltada ao desenvolvimento de soluções baseadas em Inteligência Artificial Geoespacial (GeoAI), Sistemas de Informações Geográficas (SIG), Ciência de Dados Espaciais, Engenharia de Transportes e Energia Renováveis.
 
@@ -27,7 +27,7 @@ Tenho interesse em utilizar métodos computacionais para compreender como pessoa
 
 # Formação
 
-- Engenheiro Agrimensor e Cartógrafo
+- Engenheiro Agrimensor
 
 - Analista e Desenvolvedor de Sistemas
 
